@@ -8,5 +8,9 @@ public class ProblemHomePage {
     //construtor
     public ProblemHomePage(Page page){
         this.page = page;
+        //--atributos de elementos da página
     }
+
+
+    //metodos da página
 }

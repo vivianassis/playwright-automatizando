@@ -8,9 +8,9 @@ public class CartPage {
     //construtor
     public CartPage(Page page){
         this.page = page;
-    }
 
-    //atributos de elementos da página
+    //--atributos de elementos da página
+    }
 
 
     //metodos da página

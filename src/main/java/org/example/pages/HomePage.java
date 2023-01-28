@@ -8,9 +8,9 @@ public class HomePage {
     //construtor
         public HomePage(Page page){
         this.page = page;
-    }
 
-    //atributos de elementos da página
+        //--atributos de elementos da página
+    }
 
 
     //metodos da página

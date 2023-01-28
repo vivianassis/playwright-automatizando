@@ -3,7 +3,7 @@ package org.example.pages;
 import com.microsoft.playwright.Page;
 
 public class HomePage {
-    private Page page;
+    private final Page page;
 
     //construtor
         public HomePage(Page page){

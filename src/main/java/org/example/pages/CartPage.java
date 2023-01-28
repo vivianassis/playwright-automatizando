@@ -3,7 +3,7 @@ package org.example.pages;
 import com.microsoft.playwright.Page;
 
 public class CartPage {
-    private Page page;
+    private final Page page;
 
     //construtor
     public CartPage(Page page){
